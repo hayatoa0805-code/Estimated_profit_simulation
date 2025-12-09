@@ -1,0 +1,2 @@
+# -Estimated_profit_simulation
+授業で作った予想収益シミュレーション
